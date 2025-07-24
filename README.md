@@ -1,4 +1,3 @@
-Dưới đây là phiên bản viết lại dài hơn, chuyên nghiệp và có cấu trúc rõ ràng hơn cho phần `README.md` của dự án Flutter **CloudStorage**:
 
 ---
 
@@ -109,8 +108,7 @@ This project is licensed under the MIT License.
 
 Developed by **\[Your Name]**
 📫 Email: [son28062005@gmail.com]_
-🌐 GitHub: [github.com/yourusername])
+🌐 GitHub: [https://github.com/Sotharmory/Cloud-Drive-System])
 
 ---
 
-Nếu bạn đang sử dụng dịch vụ cloud cụ thể (Firebase, Supabase, v.v.), mình có thể viết chi tiết phần **integration** cho bạn. Bạn có muốn mình thêm phần đó vào README luôn không?
